@@ -4718,9 +4718,9 @@ flatten@^1.0.2:
   integrity sha512-dVsPA/UwQ8+2uoFe5GHtiBMu48dWLTdsuEd7CKGlZlD78r1TTWBvDuFaFGKCo/ZfEr95Uk56vZoX86OsHkUeIg==
 
 follow-redirects@^1.0.0:
-  version "1.13.3"
-  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.13.3.tgz#e5598ad50174c1bc4e872301e82ac2cd97f90267"
-  integrity sha512-DUgl6+HDzB0iEptNQEXLx/KhTmDb8tZUHSeLqpnjpknR70H0nC2t9N73BK6fN4hOvJ84pKlIQVQ4k5FFlBedKA==
+  version "1.14.8"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.14.8.tgz#016996fb9a11a100566398b1c6839337d7bfa8fc"
+  integrity sha512-1x0S9UVJHsQprFcEC/qnNzBLcIxsjAV905f/UkQxbclCsoTWlacCNOpQa/anodLl2uaEKFhfWOvM2Qg77+15zA==
 
 for-in@^1.0.1, for-in@^1.0.2:
   version "1.0.2"
@@ -7691,10 +7691,10 @@ mime-types@~1.0.1:
   resolved "https://registry.yarnpkg.com/mime-types/-/mime-types-1.0.2.tgz#995ae1392ab8affcbfcb2641dd054e943c0d5dce"
   integrity sha1-mVrhOSq4r/y/yyZB3QVOlDwNXc4=
 
-mime@1.2.2, mime@~1.2.7:
-  version "1.2.7"
-  resolved "https://registry.yarnpkg.com/mime/-/mime-1.2.7.tgz#c7a13f33a7073d9900f288436b06b3a16200865b"
-  integrity sha1-x6E/M6cHPZkA8ohDawazoWIAhls=
+mime@1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/mime/-/mime-1.2.2.tgz#b9d6355bf53e8d7d56693130e451daff340148cf"
+  integrity sha1-udY1W/U+jX1WaTEw5FHa/zQBSM8=
 
 mime@1.2.5:
   version "1.2.5"
@@ -7715,6 +7715,11 @@ mime@~1.2.11, mime@~1.2.9:
   version "1.2.11"
   resolved "https://registry.yarnpkg.com/mime/-/mime-1.2.11.tgz#58203eed86e3a5ef17aed2b7d9ebd47f0a60dd10"
   integrity sha1-WCA+7Ybjpe8XrtK32evUfwpg3RA=
+
+mime@~1.2.7:
+  version "1.2.7"
+  resolved "https://registry.yarnpkg.com/mime/-/mime-1.2.7.tgz#c7a13f33a7073d9900f288436b06b3a16200865b"
+  integrity sha1-x6E/M6cHPZkA8ohDawazoWIAhls=
 
 mimic-fn@^1.0.0:
   version "1.2.0"
